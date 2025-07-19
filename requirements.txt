@@ -1,0 +1,4 @@
+# UltraPolyCalc Requirements
+
+pytest
+streamlit
